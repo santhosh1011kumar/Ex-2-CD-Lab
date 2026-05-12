@@ -1,7 +1,7 @@
 # Ex-2-GENERATION OF LEXICAL TOKENS LEX FLEX TOOL
-
-# NAME : SANTHOSH KUMAR A
-# REG.NO: 212224230250
+# DATE : 12 - 05 - 2026
+## NAME : SANTHOSH KUMAR A
+## REG.NO: 212224230250
 # AIM
 ## To write a lex program to implement lexical analyzer to recognize a few patterns.
 # ALGORITHM
